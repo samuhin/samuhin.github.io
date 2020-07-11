@@ -1,3 +1,13 @@
 body {
   background: #d0d0d0;
 }
+
+form {
+  margin: auto; /* Выравниваем по центру */
+  margin-bottom: 5px;
+  background: #f0f0f0; /* Цвет фона */
+  width: 80%; /* Ширина блока */
+  padding: 5px; /* Поля */
+  border: 2px solid #000; /* Параметры рамки */
+  word-wrap: break-word; /* Перенос слов */
+}
